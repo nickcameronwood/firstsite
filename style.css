@@ -9,7 +9,7 @@ img {
 
 .main-container{
   background: whitesmoke;
-  max-width: 800px;
+  max-width: auto;
   margin:auto;
   padding: 10px;
   overflow:auto;
@@ -60,7 +60,7 @@ a {
 
 footer{
   background: whitesmoke;
-  max-width: 800px;
+  max-width: auto;
   margin:auto;
   padding: 10px;
   overflow:auto;
